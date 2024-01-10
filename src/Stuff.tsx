@@ -1,5 +1,5 @@
 import React from "react";
-import { Accordion, CssBaseline } from "@letsdeel/ui";
+import { Accordion, H1 } from "@letsdeel/ui";
 
 const MyComponent = React.lazy(() => import("./MyComponent"));
 
@@ -12,7 +12,7 @@ const items = [
 const Stuff = () => {
   return (
     <>
-      <CssBaseline />
+      <H1>Ha jedan</H1>
       <Accordion items={items} defaultIdOpened={1} />
       <MyComponent />
     </>

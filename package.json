@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@emotion/styled": "^11.11.0",
-    "@letsdeel/ui": "1.1404.5",
+    "@letsdeel/ui": "file:.yalc/@letsdeel/ui",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "vite-bundle-visualizer": "^1.0.0"

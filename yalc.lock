@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "@letsdeel/ui": {
+      "signature": "6b5eb5db3e57159103540bdcd4cb9885",
+      "file": true,
+      "replaced": "1.1404.5"
+    }
+  }
+}
